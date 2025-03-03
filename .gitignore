@@ -1,0 +1,48 @@
+# Build Folders
+bin/
+obj/
+
+# Visual Studio / VS Code Folders
+.vs/
+.vscode/
+.vscode-test/
+
+# Visual Studio Working Files
+*.user
+*.suo
+*.sln.docstates
+
+# Build Results
+*.log
+*.cache
+*.dll
+*.exe
+*.pdb
+*.appx
+*.appxupload
+
+
+# Visual Studio Generated Files
+*.csproj.user
+*.dbmdl
+*.jfm
+*.ipch
+*.opensdf
+*.sdf
+*.sqlite
+*.swp
+*.unsaved
+
+# NuGet Packages
+*.nupkg
+
+
+# Rider
+.idea/
+*.sln.iml
+
+#Settings
+appsettings.json
+appsettings.*.json
+
+
